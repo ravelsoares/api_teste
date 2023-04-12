@@ -1,0 +1,1 @@
+web: gunicorn arima_api:app

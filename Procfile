@@ -1,1 +1,1 @@
-web: gunicorn arima_api:app
+web: gunicorn api:app
